@@ -6,6 +6,10 @@ TAP is a Progressive Web App (PWA) designed to provide a comprehensive cryptocur
 
 TAP offers a modern, responsive interface for cryptocurrency trading, accessible both on desktop and mobile devices. As a PWA, it can be installed on your device and used offline with cached functionality.
 
+## Screenshot
+
+![TAP Application Screenshot](./screenshot.png)
+
 ## Features
 
 - **Progressive Web App**: Install on any device and access offline
